@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ruth Wossen</h1>
-<h3 align="center">A passionate fullstack developer from Addis Ababa, Ethiopia</h3>
+<h3 align="center">Software Engineer @ Amazon, Luxembourg · Building event-driven systems & AI agents · Java, Python, TypeScript · Former Head of Education @ A2SV</h3>
 
-- 🌱 I’m currently learning **React Native, Node.js**
+- 🌱 I’m currently learning **AI agent orchestration & workflows**
 
-- 👯 I’m looking to collaborate on **fullstack development**
+- 👯 I’m looking to collaborate on **AI focused projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Java**
 
-- 📫 How to reach me **ruthwossen75@gmail.com**
+- 📫 How to reach me **ruthwossenbekele@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
